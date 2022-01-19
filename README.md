@@ -1,4 +1,4 @@
-# Wordle-Solver  
+# Wordle Solver  
 Solves wordles by filtering out incorrect words using conditions set by user  
 To install and use, run these commands:  
 <br />

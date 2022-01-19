@@ -1,5 +1,5 @@
 # Wordle-Solver
-Solves wordles
+Solves wordles by filtering out possible words using conditions set by user
 
 
 To install and use, run these commands:
